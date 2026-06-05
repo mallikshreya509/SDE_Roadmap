@@ -117,7 +117,6 @@
 
 ## 🔵 Tier 2 — AWS Cloud Skills (Critical Gap)
 
-> Zero AWS on your resume is a major blocker for this specific JD. Use AWS Free Tier.
 
 ---
 
